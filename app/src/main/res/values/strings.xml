@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">s213370Lykkehjulet</string>
+    <string name="overskrift">Lykkehjulet</string>
+    <string name="start">Spin</string>
+    <string name="intro">Bestem ordet ved hjælp af bogstaver</string>
+    <string name="point">Point:</string>
+    <string name="liv">Liv:</string>
+    <string name="brugtebogstaver">Brugte bogstaver:</string>
+
+</resources>
